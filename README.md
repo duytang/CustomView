@@ -133,3 +133,6 @@ func setShadowCorner(with corners : CGFloat, fillColor: UIColor = .white, shadow
 }
 ```
 </details>
+
+## Wave tabbar
+![wave_tabbar](https://github.com/user-attachments/assets/d1c426d1-61fb-47c8-864f-f929b36d7fa9)
